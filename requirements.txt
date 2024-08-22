@@ -1,0 +1,11 @@
+langchain
+python-dotenv
+groq
+langchain_groq
+langchain_huggingface
+langchain_community
+pypdf
+chromadb
+langchain-chroma
+gradio
+langchain_openai
